@@ -5,8 +5,6 @@
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a 
 YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and displaying the data in the Streamlit app.
 
-**Workflow**
-
     Data Collection:
       1.The first step is to collect data from the YouTube using the YouTube Data API. 
       2.The API and the Channel ID (Extracted from the Channel Page) is used to retrieve channel details, 
