@@ -27,6 +27,7 @@ Workflow
       2.Then used SQL queries to join the tables and retrieve data for specific channels.
       
   Data Analysis and Data Visualization:
+  
       1.With the help of SQL query, I have got many interesting insights about the youtube channels.
       2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app.
       3.Streamlit is used to create dashboard that allows users to visualize and analyze the data. 
