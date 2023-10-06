@@ -25,7 +25,7 @@ YouTube channel, stores it in a MongoDB database, migrates it to a SQL data ware
     Data Analysis and Data Visualization:
       1.With the help of SQL query, I have got many interesting insights about the youtube channels.
       2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app.
-      3.Streamlit is a Python library used to create dashboard that allows users to visualize and analyze the data. 
+      3.Streamlit is used to create dashboard that allows users to visualize and analyze the data. 
       4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
 
 
