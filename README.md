@@ -2,26 +2,30 @@
 
 **Introduction**
 
-This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and displaying the data in the Streamlit app.
+This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a 
+YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and displaying the data in the Streamlit app.
 
 **Workflow**
 
-    **Data Collection**
-      1.The first step is to collect data from the YouTube. This can be done using the YouTube Data API. 
-      2.The API and the Channel ID (Extracted from the Channel Page) is used to retrieve channel details, videos details and comment details. 
-      3.I have used the Google API client library for Python to make requests to the API and the responses are Collected as a Dictionary (Data Collection).
+    Data Collection:
+      1.The first step is to collect data from the YouTube using the YouTube Data API. 
+      2.The API and the Channel ID (Extracted from the Channel Page) is used to retrieve channel details, 
+        videos details and comment details. 
+      3.I have used the Google API client library for Python to make requests to the API and the responses 
+        are Collected as a Dictionary (Data Collection).
       
-    **Loading(Storing) the Collected Data to MongoDB**
-      1.Once the Data Collection is done, store it in MongoDB, which is a NoSQL Database. MongoDB is a great choice for handling unstructured and semi-structured data.
+    Loading(Storing) the Collected Data to MongoDB:
+      1.Once the Data Collection is done, store it in MongoDB, which is a NoSQL Database great choice for handling 
+        unstructured and semi-structured data.
       
-    **Data Migration to SQL**
-      1.After Loading all the data into MongoDB, it is then migrated/transformed it to a structured MySQL as data warehouse.
-      2.Then used SQL queries to join the tables in the SQL data warehouse and retrieve data for specific channels based on the user input.
+    Data Migration to SQL:
+      1.After Loading all the data into MongoDB, it is then migrated/transformed to a structured MySQL data warehouse.
+      2.Then used SQL queries to join the tables and retrieve data for specific channels based on the user input.
       
-    **Data Analysis and Data Visualization**
+    Data Analysis and Data Visualization:
       1.With the help of SQL query, I have got many interesting insights about the youtube channels.
-      2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app. Streamlit is a Python library that can be used to create interactive web applications. 
-      3.We will use Streamlit to create a dashboard that allows users to visualize and analyze the data. 
+      2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app.
+      3.Streamlit is a Python library used to create a dashboard that allows users to visualize and analyze the data. 
       4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
 
 
