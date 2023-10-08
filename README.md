@@ -39,6 +39,7 @@ YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit-GUVI Cap
 
 ![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/9857a6a0-291f-4e85-872e-05ef06560599)
     
+
 **Tools and Technologies used**
 
 •	Python
@@ -49,9 +50,10 @@ YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit-GUVI Cap
 •	Pandas
 •	Plotly
 
-**Streamlit UI**
 
-Home Page:
+**Streamlit User Interface**
+
+Home Page option menu:
 
 ![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/9837b8af-fd99-4833-bdbb-f075d1c6d6ad)
 
