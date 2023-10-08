@@ -32,5 +32,24 @@
       2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app.
       3.Streamlit is used to create dashboard that allows users to visualize and analyze the data. 
       4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
+    
+**Tools and Technologies used**
+
+•	Python
+•	MongoDB
+•	MySQL
+•	YouTube Data API
+•	Streamlit
+•	Pandas
+•	Plotly
+
+**Conclusion**
+
+    Overall, this approach involves building a simple UI with Streamlit, retrieving data from the 
+    YouTube API, storing it in a MongoDB datalake, migrating it to a SQL data warehouse, querying 
+    the data warehouse with SQL, and displaying the data in the Streamlit app. This approach can be 
+    used to identify trends, make predictions, and improve decision-making.
+
+
 
 
