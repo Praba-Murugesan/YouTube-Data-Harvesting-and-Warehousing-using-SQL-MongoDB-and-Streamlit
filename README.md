@@ -38,14 +38,6 @@ YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit-GUVI Cap
 **Flow Diagram**
 
 ![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/9857a6a0-291f-4e85-872e-05ef06560599)
-
-
-graph TD;
-    Channel Data Collection-->MongoDB;
-    MongoDB-->SQL;
-    SQL-->Data Analysis in Streamlit;
-    SQL-->Data Visualization in Streamlit;
-
     
 **Tools and Technologies used**
 
@@ -56,6 +48,29 @@ graph TD;
 •	Streamlit
 •	Pandas
 •	Plotly
+
+**Streamlit UI**
+
+Home Page:
+
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/9837b8af-fd99-4833-bdbb-f075d1c6d6ad)
+
+Loading Channel Data to MongoDB:
+
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/1ae24db2-4365-422c-a9cc-32e45ef56544)
+
+Data Migration to SQL:
+
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/05073574-9b30-4487-9bb9-d4cb94f6c088)
+
+Data Analysis:
+
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/3bf5895f-7da1-4a40-80fd-61f2d4918a2e)
+
+Data Visualization:
+
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/c1df5061-9f07-408f-aea7-b32c05e3a036)
+
 
 **Conclusion**
 
