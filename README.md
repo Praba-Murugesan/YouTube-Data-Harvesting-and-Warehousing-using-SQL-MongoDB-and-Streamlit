@@ -1,4 +1,5 @@
-# YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit
+# ![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/db3c7d4a-ca84-4f3b-86d9-2b2412792ed5)
+YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit-GUVI Capstone Project
 
 **Introduction**
 
@@ -32,6 +33,18 @@
       2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app.
       3.Streamlit is used to create dashboard that allows users to visualize and analyze the data. 
       4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
+
+     
+
+
+**Flow Diagram**
+
+graph TD;
+    Channel Data Collection-->MongoDB;
+    MongoDB-->SQL;
+    SQL-->Data Analysis in Streamlit;
+    SQL-->Data Visualization in Streamlit;
+
     
 **Tools and Technologies used**
 
