@@ -69,7 +69,7 @@ Data Analysis:
 
 Data Visualization:
 
-![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/c1df5061-9f07-408f-aea7-b32c05e3a036)
+![image](https://github.com/Praba-Murugesan/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit/assets/137065152/978a76f8-6ac5-4cc2-89df-5201011cbbdc)
 
 
 **Conclusion**
